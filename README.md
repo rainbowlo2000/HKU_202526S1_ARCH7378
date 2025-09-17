@@ -9,7 +9,7 @@
 
 Download [GitHub Desktop] (https://desktop.github.com/)
 
-After installation, clone the class repository by clicking the green button ```<> Code```, and then pressing ```Open with GitHub Desktop```.
+After installation, clone the class repository by clicking the green button ```<> Code``` in this page, and then pressing ```Open with GitHub Desktop```.
 
 Make a note on where the repository is saved in your hard drive!!!
 
@@ -21,7 +21,7 @@ After installation, open ```Anaconda Prompt``` in Windows or ```Terminal``` on M
 
 We will begin by creating a new environment:
 ```bash
-conda create -n hku_arch_7378 python=3.9
+conda create -n hku_arch_7378 python=3.11
 ```
 
 Verify that the environment has been installed properly as follows:
@@ -38,7 +38,7 @@ python
 
 You should see the following:
 ```
-Python 3.8.18 | packaged by XX | (default, XX XX 20XX, XX:XX:XX)
+Python 3.X.XX | packaged by XX | (default, XX XX 20XX, XX:XX:XX)
 [XX] on XX
 Type "help", "copyright", "credits" or "license" for more information.
 ```
